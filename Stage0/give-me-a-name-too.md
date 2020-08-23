@@ -1,17 +1,33 @@
-# -give-this-module-a-name
+# Store
 
-## Feature
+## Change background and/or ball/pads colour
 
-What part of the game does this module deliver?
+The store helps the user to change the colour of
+the background and/or ball and the pads on the wall.
+There are 2 options:
+- Change Background colour
+- Change colour of Ball and Pads
 
 ## Acceptance Criteria
 
-### Scenario: -describe-a-scenario-of-this-module
+### Scenario: Change Background colour
 
-  Given -give-initial-values-and-conditions
+  Given user wants to change the background colour
 
-  When -event-happens
+  When the user chooses this option after entering
+  the store
 
-  Then -module-does-this
+  Then show 5 different colour options other than
+  default, for the user to choose from.
 
-### -add-scenario-if-needed
+### Scenario: Change colour of Ball and Pads
+
+  Given user wants to change colour of ball and
+  pads
+  
+  When the user chooses this option after entering
+  the store
+  
+  Then show 3 different colour options other than
+  default, for the user to choose from.
+  
