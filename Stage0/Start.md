@@ -15,6 +15,5 @@ level at which user wants to play
 
   Then ask user to input the level at which
   user wants to play. Once user enters the
-  level, start the timer from 0 and start
-  the pong game.
-  
+  level, start the timer from 0, score counter
+  from 0 and start the pong game.
