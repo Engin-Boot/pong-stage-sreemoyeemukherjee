@@ -3,6 +3,7 @@
 ## Feature
 
 The game screen will show 4 options :
+
 - Player mode
 - Change Background
 - Change Ball & Pads
@@ -47,4 +48,3 @@ The game screen will show 4 options :
 
   Then take the player out of the game and close
   the game window.
-  
