@@ -1,6 +1,6 @@
 # Levels
 
-## Lets user choose the level i.e. game time
+## Lets user choose the level, that is, game time
 
 The user gets to choose the game time. The levels
 are as follows:
