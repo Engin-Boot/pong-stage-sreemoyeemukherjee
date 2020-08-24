@@ -26,4 +26,3 @@ player misses to hit the ball with the pad
   the ball with the pad
 
   Then decrease score by -1.
-  
