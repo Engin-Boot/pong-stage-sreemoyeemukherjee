@@ -1,33 +1,33 @@
 # Store
 
-## Change background and/or ball/pads colour
+## Change background and/or ball/pads color
 
-The store helps the user to change the colour of
+The store helps the user to change the color of
 the background and/or ball and the pads on the wall.
 There are 2 options:
 
-- Change Background colour
-- Change colour of Ball and Pads
+- Change Background color
+- Change color of Ball and Pads
 
 ## Acceptance Criteria
 
-### Scenario: Change Background colour
+### Scenario: Change Background color
 
-  Given user wants to change the background colour
+  Given user wants to change the background color
 
   When the user chooses this option after entering
   the store
 
-  Then show 5 different colour options other than
+  Then show 5 different color options other than
   default, for the user to choose from.
 
-### Scenario: Change colour of Ball and Pads
+### Scenario: Change color of Ball and Pads
 
-  Given user wants to change colour of ball and
+  Given user wants to change color of ball and
   pads
   
   When the user chooses this option after entering
   the store
   
-  Then show 3 different colour options other than
+  Then show 3 different color options other than
   default, for the user to choose from.
