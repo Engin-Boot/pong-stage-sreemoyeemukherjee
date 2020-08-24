@@ -10,7 +10,7 @@ or quits the game interface as per Quit module
 ## Movement Initiation
 
 The Start module begins by positioning the ball at
-the centre of the area and giving it an initial
+the center of the area and giving it an initial
 velocity in the horizontal and vertical direction. As
 the game proceeds, the Ball Direction module helps in
 giving the ball its required direction.
