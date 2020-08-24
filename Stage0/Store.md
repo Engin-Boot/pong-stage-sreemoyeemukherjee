@@ -5,6 +5,7 @@
 The store helps the user to change the colour of
 the background and/or ball and the pads on the wall.
 There are 2 options:
+
 - Change Background colour
 - Change colour of Ball and Pads
 
@@ -30,4 +31,3 @@ There are 2 options:
   
   Then show 3 different colour options other than
   default, for the user to choose from.
-  
