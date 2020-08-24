@@ -34,7 +34,7 @@ The game screen will show 4 options :
 ### Scenario: Change Ball & Pads is selected
 
   Given the player wants to change the default
-  white colour of the ball and the pads
+  white color of the ball and the pads
 
   When the change ball & pads option is selected
 
