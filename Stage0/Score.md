@@ -5,7 +5,7 @@
 This module keeps the score of the player
 into account. It rewards +2 for every time
 the player is able to hit the ball with the
-pad. It gives a penalty of -1 everytime the
+pad. It gives a penalty of -1 every time the
 player misses to hit the ball with the pad
 
 ## Acceptance Criteria
