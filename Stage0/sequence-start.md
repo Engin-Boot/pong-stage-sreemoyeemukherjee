@@ -1,5 +1,7 @@
 # Interaction Sequences
 
+![Flow Diagram](https://github.com/Engin-Boot/pong-stage-sreemoyeemukherjee/blob/master/Stage0/Flow%20Diagram.PNG)
+
 ## Startup Sequence
 
 The pong game opens and shows the Menu module.
