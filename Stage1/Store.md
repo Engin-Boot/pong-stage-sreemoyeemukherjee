@@ -5,7 +5,7 @@
 The store helps the user to change the color of
 the background and/or ball and the pads on the wall.
 Update: The store also helps user to get harder paddles
-instead of deafult paddles.
+instead of default paddles.
 There are 2 options:
 
 - Change Background color
