@@ -45,4 +45,3 @@ There are 2 options:
   
   Then show harder paddles option along with
   default paddles option, for the user to choose from.
-  
